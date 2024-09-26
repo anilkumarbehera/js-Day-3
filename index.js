@@ -101,4 +101,4 @@ printData("Anil", "kumar");
     alert (1);
 })();
 
-// IIF - Afunction invokes immediately when the function definition created
+// IIF - A function invokes immediately when the function definition created
